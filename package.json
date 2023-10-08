@@ -1,0 +1,26 @@
+{
+  "name": "epitet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.2",
+    "axios": "^1.5.1",
+    "font-awesome": "^4.7.0",
+    "next": "^13.5.4",
+    "openai": "^3.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-move": "^6.5.0",
+    "react-transition-group": "^4.4.5",
+    "react-window": "^1.8.9",
+    "sass": "^1.63.6",
+    "yandex-translate-api": "^1.0.1"
+  }
+}
